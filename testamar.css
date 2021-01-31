@@ -1,5 +1,12 @@
+body {
+	background-color: black;
+	
+}
+
 h1 {
 	color: red;
 	font-family: arial;
-	font-weight: 2rem;
+	font-weight: 800;
+
 }
+
